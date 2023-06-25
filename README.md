@@ -16,4 +16,4 @@ This project encompasses the following key tasks:
 - Building a scalable data lake using AWS
 - Creating a dynamic dashboard for visualizing insights
 
-services used in this project : S3, Glue, Lambda, Athena, IAM and QuickSight
+**Services used in this project :** S3, Glue, Lambda, Athena, IAM and QuickSight
